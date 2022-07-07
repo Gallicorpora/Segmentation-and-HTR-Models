@@ -1,11 +1,9 @@
-template-depot
+Segmentation and HTR models
 ===========================
-
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 ## Données 
 
-Les données se trouvent au chemin ‘./data/*/*.xml‘.
+Les données qui ont servi à l'entrainement des différents modèles sont issues du données disponibles dans les différents dépots du projet Gallicropora : https://github.com/Gallicorpora.
 Elles sont au format alto (v.4) et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont cataloguées sur HTR-United (https://htr-united.github.io). 
 
 
