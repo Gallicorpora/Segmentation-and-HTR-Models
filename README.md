@@ -28,6 +28,8 @@ Le projet a permis d'entrainer deux premiers modèles très encourageants :
 
 Les modèles sont encore en cours d'amélioration et seront très bientôt disponibles sur Zenodo et directement dans kraken.
 
+Tous les modèles sont déjà disponibles dans la release attachée à ce dépôt.
+
 ## Financeur
 
 Ce projet est financé par le dataLab de la BnF (https://www.bnf.fr/fr/bnf-datalab).
