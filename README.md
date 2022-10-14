@@ -14,7 +14,10 @@ Elles sont au format alto (v.4) et suivent les normes de segmentation SegmOnto (
 ## Modèles
 
 ### Segmentation
-Le modèle de segmentation est un modèle affiné à partir de blla.model qui est le modèle par défaut de segmentation de Kraken à l'aide de toutes les données de Gallicorpora et d’autres datasets cités ci-dessus. Toutefois pour l'instant les résultats ne sont pas satisfaisants.
+Deux modèles de segmentation sont proposés ici :
+
+- Un modèle de segmentation affiné à partir de blla.mlmodel qui est le modèle par défaut de segmentation de Kraken à l'aide de toutes les données de Gallicorpora et d’autres datasets cités ci-dessus. Toutefois pour l'instant les résultats ne sont pas satisfaisants.
+- Un modèle entrainé à partir de YALtAi (afin de dépasser les difficultés rencontrées avec Kraken) et des mmêmes données que le modèle précédents. Les résultats sont, sans être parfaits, sont bien plus encourageants. Voir présentation : Ariane Pinche, Kelly Christensen, Simon Gabay. Between automatic and manual encoding: Towards a generic TEI model for historical prints and manuscripts. TEI 2022 conference : Text as data, Sep 2022, Newcastle, United Kingdom. ⟨10.5281/zenodo.7092214⟩. ⟨hal-03780302⟩
 
 ### HTR
 
