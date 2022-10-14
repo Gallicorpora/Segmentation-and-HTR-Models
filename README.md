@@ -44,4 +44,3 @@ Gallicorpora propose de consolider et d'appliquer une chaîne de traitement pour
 
 Il est produit sur l'infrastructure du projet CREMMA (https://www.dim-map.fr/projets-soutenus/cremma/).
 Les données pour l'HTR sont produites à l'aide de l'interface eScriptorium (https://gitlab.com/scripta/escriptorium).
-Les données de lemmatisation sont produites à l'aide de l'interface Pyrrha (https://dh.chartes.psl.eu/pyrrha/).
