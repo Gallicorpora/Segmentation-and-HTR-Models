@@ -23,7 +23,7 @@ Deux modèles de segmentation sont proposés ici :
 
 Le projet a permis d'entrainer deux premiers modèles très encourageants :
 
-- Le modèle *Gallicorpora+* pour les imprimés du 16e au 19e siècle (98,66%, test score). Le modèle a été entrainé à partir de tous les dépôts du projet Gallicorpora en dehors de manuscrits du 15 et des dépôts suivants : *OCR17*, *FONDUE-FR-PRINT-16*, *Pictocatalogs - Datasets for catalogs OCR and segmentation*.
+- Le modèle *Gallicorpora+* (DOI : 10.5281/zenodo.7410360) pour les imprimés du 16e au 19e siècle (98,66%, test score). Le modèle a été entrainé à partir de tous les dépôts du projet Gallicorpora en dehors de manuscrits du 15 et des dépôts suivants : *OCR17*, *FONDUE-FR-PRINT-16*, *Pictocatalogs - Datasets for catalogs OCR and segmentation*.
 - Le modèle *Cremma-medievalGallicorpora15*, aussi appelé *Cortado*, pour les manuscrits et les incunables (95.54%, test score).  Le modèle a été entrainé à partir des dépôts des manuscrits et des incubalbes du 15e siècle du projet Gallica, ainsi que du dépôt *Cremma Medieval*.
 
 Les modèles sont encore en cours d'amélioration et seront très bientôt disponibles sur Zenodo et directement dans kraken.
